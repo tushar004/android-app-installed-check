@@ -1,1 +1,1 @@
-# android-app-installed-check
+# Angular app to check if an android app is installed in mobile or not. All implementation done for web part, just add your package name in manifest.webmanifest and do the needful in adroid apk, refer to https://web.dev/get-installed-related-apps/.
