@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "short_name": "test",
+  "background_color": "black",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+
+  "related_applications": [{
+    "platform": "play",
+    "id": "dataon.myapplication"
+  }]
+}
+

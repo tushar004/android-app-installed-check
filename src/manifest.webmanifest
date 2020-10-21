@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "short_name": "test",
+  "scope": "/",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#e8eaf6",
+  "theme_color": "#3f51b5",
+  "icons": [],
+  "related_applications": [{
+    "platform": "play",
+    "id": "dataon.myapplication"
+  },
+  {
+    "platform": "play",
+    "id": "com.android.chrome"
+  }]
+}
+
