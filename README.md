@@ -1,0 +1,1 @@
+# android-app-installed-check
